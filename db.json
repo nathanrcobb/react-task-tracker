@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Pick Up The Kids",
+      "day": "Monday at 1:30pm",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Learning Time",
+      "day": "Tuesday at 6:00pm",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Play League of Legends",
+      "day": "Saturday",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
